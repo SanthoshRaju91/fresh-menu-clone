@@ -1,0 +1,8 @@
+{
+  "presets": ["react", "flow", "es2015"],
+  "plugins": [
+    "transform-flow-strip-types",
+    "transform-flow-comments",
+    "transform-object-rest-spread"
+  ]
+}

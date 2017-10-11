@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "desc": "Discover the authentic flavors of Hong Kong with this delectable bowl. Feast on soft noodles tossed with assorted peppers, crunchy carrots, spring onions and mushrooms, all cooked with a sweet and sour plum sauce.This dish is sure to leave you wanting more!",
+      "img": "https://d12nlatdsuu5f7.cloudfront.net/3d83e3f2-b9f2-40cf-a4e4-88a37f3ecb46.jpg",
+      "type": "veg",
+      "title": "Hong Kong Noodles (Veg)",
+      "price": "160",
+      "shortDesc": "Noodles, Peppers, Carrot, Spring onion, Mushroom, Sweet & Sour Plum Sauce"
+    },
+    {
+      "id": 2,
+      "desc": "Loved by all, this dish is a favourite in the Hall of Fame. From the bustling markets of Mexico originates a street favourite full of sweet, salty, tangy and spicy flavours. This bowl comes with soft Mexican rice, roasted sweet corn, tangy Mexican tomato salsa, fresh broccoli, habanero grilled cottage cheese and seasoned fried beans. Note: Broccoli may not be served due to seasonality issue.",
+      "img": "https://d12nlatdsuu5f7.cloudfront.net/5e218833-8e92-4102-a3da-0c36f0a7b410.jpg",
+      "type": "veg",
+      "title": "Mexican Burrito Bowl (Veg)",
+      "price": "160",
+      "shortDesc": "Rice, Roasted Sweet Corn, Grilled Paneer; Mexican Salsa, Bean Mash"
+    },
+    {
+      "id": 3,
+      "desc": "For those who prefer fine dining. Feast on pasta that's made with fresh ingredients like baby corn, zucchini, black olives and penne. These are tossed in refreshing basil pesto and rich parmesan cheese. Served with a garlic bread, this is a true Italian delicacy.",
+      "img": "https://d12nlatdsuu5f7.cloudfront.net/ce36db68-d8e7-4756-a103-d1a65ff9d785.jpg",
+      "type": "veg",
+      "title": "Penne Pesto (Veg)",
+      "price": "160",
+      "shortDesc": "Penne, Garlic Bread, Parmesan Cheese, Baby Corn, Zucchini, Black Olives, Basil Pesto"
+    },
+    {
+      "id": 4,
+      "desc": "What's not to love about chicken and when you have two ways to enjoy it, there's no way you can resist. Here's a sumptuous meal that includes delicious black pepper sauce tossed chicken, served with wholesome aromatic fried rice and two chicken lollipops.",
+      "img": "https://d12nlatdsuu5f7.cloudfront.net/eca2e151-c162-4d0a-a948-eaa3342d173f.jpg",
+      "type": "non-veg",
+      "title": "Chicken Lovers Delight (Non Veg)",
+      "price": "190",
+      "shortDesc": "Chicken Boneless in Black Pepper Sauce, Chicken Lollipops, Fried Rice, Carrot, Peppers"
+    },
+    {
+      "id": 5,
+      "desc": "If you love the good ol' chicken steak, then this dish will be a revelation. Chicken steak is barbequed with aromatic rosemary and butter. The dish is served with a side of rice and sautéed vegetables.",
+      "img": "https://d12nlatdsuu5f7.cloudfront.net/d923b028-6a10-4d1e-992a-ebc92920f1a1.jpg",
+      "type": "non-veg",
+      "title": "BBQ Chicken Steak (Non Veg)",
+      "price": "190",
+      "shortDesc": "Chicken Breast, BBQ Sauce, Sauteed Fresh Veggies"
+    }
+  ]
+}
